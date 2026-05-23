@@ -1,0 +1,9 @@
+{
+  "DISCORD_TOKEN": "tokem-bot",
+  "CHANNEL_ID": "1472475656645251164",
+  "DB_USER": "root",
+  "DB_PASS": "",
+  "DB_NAME": "s8_martin",
+  "DB_HOST": "localhost",
+  "JADWAL_BACKUP": "14:30"
+}
