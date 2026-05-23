@@ -62,7 +62,3 @@ martin/
 
 ## Catatan Penting
 Discord memiliki limit pengiriman file sebesar **25 MB** untuk akun dan server yang tidak di-boost. Jika ukuran file `.zip` hasil backup database kamu melebihi 25 MB, bot tidak akan bisa mengirimkannya ke Discord dan akan menghasilkan error.
-
-```
-
-```
